@@ -83,13 +83,6 @@ Fonte: https://www.tiespecialistas.com.br/2016/10/analise-sobre-iso-9126-nbr-135
 
 ---
 
-8. (TRE-PI-2016) De acordo com a NBR ISO/IEC 9126, as qualidades externas e internas podem ser categorizadas por meio
- de características e subcaracterísticas. As subcaracterísticas adequação, acurácia e interoperabilidade referem-se à característica:
-
-_Escreve a resposta aqui_
-
----
-
 8. (TRE-MT-2015) O modelo de qualidade externa e interna da norma ISO/IEC 9126 categoriza os atributos de qualidade
 de software em seis características, entre elas a funcionalidade e a manutenibilidade, que são, por sua vez, 
 subdivididas em subcaracterísticas. 
@@ -116,6 +109,13 @@ Conformidade de um sistema com os requisitos levantados no início do processo d
 10. (UFPR-2010) Na avaliação da qualidade de software, corretitude é:
 
 A medida com que um programa satisfaz sua especificação e cumpre os objetivos visados pelo cliente.
+
+---
+
+11. (TRE-PI-2016) De acordo com a NBR ISO/IEC 9126, as qualidades externas e internas podem ser categorizadas por meio
+ de características e subcaracterísticas. As subcaracterísticas adequação, acurácia e interoperabilidade referem-se à característica:
+
+_Escreve a resposta aqui_
 
 ---
 
