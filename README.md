@@ -40,7 +40,7 @@ _Escreve a resposta aqui_
     No modelo de qualidade da norma ISO/IEC 25010:2011, essas subcaracterísticas estão vinculadas à característica de
     qualidade denominada:
 
-_Escreve a resposta aqui_
+Adequação Funcional
 
 ---
 
