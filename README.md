@@ -100,7 +100,7 @@ Conformidade de um sistema com os requisitos levantados no início do processo d
 
 10. (UFPR-2010) Na avaliação da qualidade de software, corretitude é:
 
-_Escreve a resposta aqui_
+A medida com que um programa satisfaz sua especificação e cumpre os objetivos visados pelo cliente.
 
 ---
 
