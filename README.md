@@ -58,7 +58,7 @@ _Escreve a resposta aqui_
 na área de saúde assumem o papel tradicionalmente desempenhado pela revisão por pares. Na atualidade, esses selos são 
 instrumentos de:
 
-_Escreve a resposta aqui_
+certificação
 
 ---
 
