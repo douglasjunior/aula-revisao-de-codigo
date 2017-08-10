@@ -1,4 +1,4 @@
-# Questões sobre a disciplina de Qualidade de Software.
+﻿# Questões sobre a disciplina de Qualidade de Software.
 
 1. (IBGE-2017) Escalabilidade é um atributo de qualidade de software que remete à capacidade de acomodar novas demandas e/ou 
 manipular uma porção crescente de trabalho com o acréscimo de hardware. 
@@ -83,7 +83,8 @@ subdivididas em subcaracterísticas.
     Considerando esse assunto, assinale a opção que apresenta as subcaracterísticas da funcionalidade e da manutenibilidade, 
     respectivamente.
 
-_Escreve a resposta aqui_
+Funcionalidade: adequação, acurácia, interoperabilidade, segurança de acesso e conformidade.
+Manutenibilidade: analisabilidade, modificabilidade, estabilidade, testabilidade, conformidade.
 
 ---
 
