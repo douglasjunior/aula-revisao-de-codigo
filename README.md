@@ -94,7 +94,7 @@ produto, processo ou sistema cumpre os requisitos inicialmente estipulados para 
 
     Em uma frasem, defina "qualidade", dentro da área de engenharia de software.
 
-_Escreve a resposta aqui_
+Conformidade de um sistema com os requisitos levantados no início do processo de desenvolvimento.
 
 ---
 
