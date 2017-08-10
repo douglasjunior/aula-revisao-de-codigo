@@ -65,11 +65,7 @@ certificação
 7. (TCE-PR-2017) De acordo com a norma ISO/IEC 9126, os atributos de qualidade de software referentes às características 
 de usabilidade são:
 
-- Acessibilidade 
-- Estética
-- Operacionalidade
-- Apreensibilidade
-- Inteligibilidade
+_Escreve a resposta aqui_
 
 ---
 
