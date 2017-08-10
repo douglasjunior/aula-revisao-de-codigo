@@ -83,7 +83,8 @@ subdivididas em subcaracterísticas.
     Considerando esse assunto, assinale a opção que apresenta as subcaracterísticas da funcionalidade e da manutenibilidade, 
     respectivamente.
 
-_Escreve a resposta aqui_
+Funcionalidade: adequação, acurácia, interoperabilidade, segurança de acesso e conformidade.
+Manutenibilidade: analisabilidade, modificabilidade, estabilidade, testabilidade, conformidade.
 
 ---
 
