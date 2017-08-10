@@ -6,7 +6,7 @@ Considere uma aplicação web hipotética constituída por um servidor de aplica
 
     Cite exemplos de escalabilidade horizontalmente e verticalmente para este sistema computacional:
 
-_Escreve a resposta aqui_
+_Escalabilidade horizontal ou scale out: consiste em adicionar mais capacidade no sistema distribuído inserindo uma nova máquina no cluster.Escalabilidade vertical ou scale up: neste caso ocorre o upgrade em um servidor já existente na rede. Significa substituir, repor ou apenas agregar mais recursos, como memória ou novos discos rígidos por exemplo._
 
 ---
 
