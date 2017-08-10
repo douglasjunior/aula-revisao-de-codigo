@@ -1,4 +1,4 @@
-# Questões sobre a disciplina de Qualidade de Software.
+﻿# Questões sobre a disciplina de Qualidade de Software.
 
 1. (IBGE-2017) Escalabilidade é um atributo de qualidade de software que remete à capacidade de acomodar novas demandas e/ou 
 manipular uma porção crescente de trabalho com o acréscimo de hardware. 
@@ -101,7 +101,7 @@ _Escreve a resposta aqui_
 
 10. (UFPR-2010) Na avaliação da qualidade de software, corretitude é:
 
-Correntitude é o cumprimento dos objetivos definidos no projeto. Um software com correntitude é aquele que cumpre com o que foi determinado que faça.
+_Escreve a resposta aqui_
 
 ---
 
