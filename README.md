@@ -49,10 +49,12 @@ o teste de validação. Esse tipo de teste foca na visão do usuário, sendo rea
 dos critérios de validação presentes na especificação dos requisitos de software do produto em desenvolvimento. 
 
     Considerando o exposto, descreva um cenário que compõe o conceito de teste beta:
+.
+    Um ambiente consideravel para qualidade de software, seria o desenvolvimento de um aplicativo que ainda não estivesse totalmente pronto e nem testado suficiente para ser colocado a venda ou entrege ao cliente, então os desenvolvedores liberam a versão free, para alguns usúarios fazerem testes, e ver como reagiriam ao software e assim poderiam ver onde teria erros e como os erros estavam ocorrendo, tendo assim a possibilidade de corrigi-los e melhorar o software. 
+    
+--- 
 
-_Escreve a resposta aqui_
 
----
 
 6. (INCA-2017) Os selos de validade que qualificam páginas Web e atendem aos critérios de qualidade definidos para a informação 
 na área de saúde assumem o papel tradicionalmente desempenhado pela revisão por pares. Na atualidade, esses selos são 
